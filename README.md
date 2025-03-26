@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 ## Backend
 
-The backend consists of two independent microservices: **order-service** and **product-service**. Each service runs separately and does not use a database.
+The backend consists of two independent microservices: **order-service** and **product-service**. Each service runs separately, does not use a database and uses REST endpoints.
 
 ### Prerequisites
 
